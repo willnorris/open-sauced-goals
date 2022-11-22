@@ -1,20 +1,20 @@
 [
   {
     "full_name": "tailscale/golink",
-    "stargazers_count": 93,
+    "stargazers_count": 110,
     "open_issues_count": 2,
     "forks_count": 4
   },
   {
     "full_name": "lima-vm/lima",
-    "stargazers_count": 9799,
-    "open_issues_count": 172,
-    "forks_count": 375
+    "stargazers_count": 9827,
+    "open_issues_count": 173,
+    "forks_count": 383
   },
   {
     "full_name": "ema/pets",
-    "stargazers_count": 415,
-    "open_issues_count": 4,
+    "stargazers_count": 417,
+    "open_issues_count": 3,
     "forks_count": 5
   },
   {
@@ -25,19 +25,19 @@
   },
   {
     "full_name": "pirate/bash-utils",
-    "stargazers_count": 172,
+    "stargazers_count": 173,
     "open_issues_count": 0,
     "forks_count": 14
   },
   {
     "full_name": "nealmckee/penumbra",
     "stargazers_count": 1044,
-    "open_issues_count": 9,
+    "open_issues_count": 10,
     "forks_count": 18
   },
   {
     "full_name": "ogham/dog",
-    "stargazers_count": 4689,
+    "stargazers_count": 4695,
     "open_issues_count": 59,
     "forks_count": 115
   },
@@ -49,21 +49,21 @@
   },
   {
     "full_name": "folke/dot",
-    "stargazers_count": 180,
+    "stargazers_count": 183,
     "open_issues_count": 2,
-    "forks_count": 24
+    "forks_count": 22
   },
   {
     "full_name": "tjdevries/config_manager",
-    "stargazers_count": 786,
-    "open_issues_count": 8,
-    "forks_count": 105
+    "stargazers_count": 787,
+    "open_issues_count": 9,
+    "forks_count": 106
   },
   {
     "full_name": "mhinz/vim-startify",
-    "stargazers_count": 4931,
+    "stargazers_count": 4935,
     "open_issues_count": 73,
-    "forks_count": 176
+    "forks_count": 179
   },
   {
     "full_name": "uptech/alt",
@@ -73,33 +73,33 @@
   },
   {
     "full_name": "stripe/smokescreen",
-    "stargazers_count": 804,
+    "stargazers_count": 806,
     "open_issues_count": 9,
     "forks_count": 48
   },
   {
     "full_name": "joshdick/onedark.vim",
-    "stargazers_count": 3576,
+    "stargazers_count": 3578,
     "open_issues_count": 14,
-    "forks_count": 526
+    "forks_count": 527
   },
   {
     "full_name": "rockerBOO/awesome-neovim",
-    "stargazers_count": 7631,
+    "stargazers_count": 7698,
     "open_issues_count": 0,
-    "forks_count": 378
+    "forks_count": 380
   },
   {
     "full_name": "nanotee/nvim-lua-guide",
-    "stargazers_count": 4729,
+    "stargazers_count": 4759,
     "open_issues_count": 17,
     "forks_count": 168
   },
   {
     "full_name": "actualbudget/actual",
-    "stargazers_count": 5521,
+    "stargazers_count": 5527,
     "open_issues_count": 88,
-    "forks_count": 445
+    "forks_count": 446
   },
   {
     "full_name": "josharian/tstruct",
@@ -109,8 +109,8 @@
   },
   {
     "full_name": "SierraSoftworks/tailscale-udm",
-    "stargazers_count": 199,
-    "open_issues_count": 1,
+    "stargazers_count": 202,
+    "open_issues_count": 2,
     "forks_count": 21
   },
   {
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "maxgoedjen/secretive",
-    "stargazers_count": 4855,
+    "stargazers_count": 4859,
     "open_issues_count": 91,
-    "forks_count": 96
+    "forks_count": 97
   },
   {
     "full_name": "LunarVim/Neovim-from-scratch",
-    "stargazers_count": 3820,
-    "open_issues_count": 87,
-    "forks_count": 952
+    "stargazers_count": 3855,
+    "open_issues_count": 88,
+    "forks_count": 953
   },
   {
     "full_name": "github/gh-net",
@@ -140,13 +140,13 @@
   {
     "full_name": "zitadel/oidc",
     "stargazers_count": 418,
-    "open_issues_count": 18,
-    "forks_count": 66
+    "open_issues_count": 17,
+    "forks_count": 67
   },
   {
     "full_name": "github/safe-settings",
     "stargazers_count": 240,
-    "open_issues_count": 54,
+    "open_issues_count": 55,
     "forks_count": 62
   },
   {
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "asdf-vm/asdf",
-    "stargazers_count": 16117,
-    "open_issues_count": 137,
-    "forks_count": 622
+    "stargazers_count": 16146,
+    "open_issues_count": 138,
+    "forks_count": 624
   },
   {
     "full_name": "dissolve/mf2-tester",
