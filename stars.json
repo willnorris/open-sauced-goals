@@ -1,20 +1,26 @@
 [
   {
+    "full_name": "koush/scrypted",
+    "stargazers_count": 1349,
+    "open_issues_count": 18,
+    "forks_count": 94
+  },
+  {
     "full_name": "tailscale/golink",
-    "stargazers_count": 110,
+    "stargazers_count": 112,
     "open_issues_count": 2,
     "forks_count": 4
   },
   {
     "full_name": "lima-vm/lima",
-    "stargazers_count": 9827,
-    "open_issues_count": 173,
-    "forks_count": 383
+    "stargazers_count": 9880,
+    "open_issues_count": 174,
+    "forks_count": 385
   },
   {
     "full_name": "ema/pets",
     "stargazers_count": 417,
-    "open_issues_count": 3,
+    "open_issues_count": 1,
     "forks_count": 5
   },
   {
@@ -31,13 +37,13 @@
   },
   {
     "full_name": "nealmckee/penumbra",
-    "stargazers_count": 1044,
+    "stargazers_count": 1045,
     "open_issues_count": 10,
     "forks_count": 18
   },
   {
     "full_name": "ogham/dog",
-    "stargazers_count": 4695,
+    "stargazers_count": 4704,
     "open_issues_count": 59,
     "forks_count": 115
   },
@@ -49,15 +55,15 @@
   },
   {
     "full_name": "folke/dot",
-    "stargazers_count": 183,
+    "stargazers_count": 185,
     "open_issues_count": 2,
     "forks_count": 22
   },
   {
     "full_name": "tjdevries/config_manager",
-    "stargazers_count": 787,
+    "stargazers_count": 789,
     "open_issues_count": 9,
-    "forks_count": 106
+    "forks_count": 107
   },
   {
     "full_name": "mhinz/vim-startify",
@@ -73,31 +79,31 @@
   },
   {
     "full_name": "stripe/smokescreen",
-    "stargazers_count": 806,
-    "open_issues_count": 9,
+    "stargazers_count": 809,
+    "open_issues_count": 10,
     "forks_count": 48
   },
   {
     "full_name": "joshdick/onedark.vim",
-    "stargazers_count": 3578,
+    "stargazers_count": 3579,
     "open_issues_count": 14,
-    "forks_count": 527
+    "forks_count": 528
   },
   {
     "full_name": "rockerBOO/awesome-neovim",
-    "stargazers_count": 7698,
+    "stargazers_count": 7748,
     "open_issues_count": 0,
-    "forks_count": 380
+    "forks_count": 382
   },
   {
     "full_name": "nanotee/nvim-lua-guide",
-    "stargazers_count": 4759,
+    "stargazers_count": 4782,
     "open_issues_count": 17,
-    "forks_count": 168
+    "forks_count": 167
   },
   {
     "full_name": "actualbudget/actual",
-    "stargazers_count": 5527,
+    "stargazers_count": 5531,
     "open_issues_count": 88,
     "forks_count": 446
   },
@@ -109,8 +115,8 @@
   },
   {
     "full_name": "SierraSoftworks/tailscale-udm",
-    "stargazers_count": 202,
-    "open_issues_count": 2,
+    "stargazers_count": 203,
+    "open_issues_count": 1,
     "forks_count": 21
   },
   {
@@ -121,32 +127,32 @@
   },
   {
     "full_name": "maxgoedjen/secretive",
-    "stargazers_count": 4859,
-    "open_issues_count": 91,
+    "stargazers_count": 4865,
+    "open_issues_count": 90,
     "forks_count": 97
   },
   {
     "full_name": "LunarVim/Neovim-from-scratch",
-    "stargazers_count": 3855,
-    "open_issues_count": 88,
-    "forks_count": 953
+    "stargazers_count": 3867,
+    "open_issues_count": 87,
+    "forks_count": 963
   },
   {
     "full_name": "github/gh-net",
-    "stargazers_count": 162,
+    "stargazers_count": 165,
     "open_issues_count": 20,
     "forks_count": 16
   },
   {
     "full_name": "zitadel/oidc",
-    "stargazers_count": 418,
-    "open_issues_count": 17,
-    "forks_count": 67
+    "stargazers_count": 422,
+    "open_issues_count": 19,
+    "forks_count": 69
   },
   {
     "full_name": "github/safe-settings",
     "stargazers_count": 240,
-    "open_issues_count": 55,
+    "open_issues_count": 57,
     "forks_count": 62
   },
   {
@@ -163,7 +169,7 @@
   },
   {
     "full_name": "asdf-vm/asdf",
-    "stargazers_count": 16146,
+    "stargazers_count": 16172,
     "open_issues_count": 138,
     "forks_count": 624
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 2
-  },
-  {
-    "full_name": "PlaintextGroup/oss-virtual-incubator",
-    "stargazers_count": 63,
-    "open_issues_count": 2,
-    "forks_count": 26
   }
 ]
