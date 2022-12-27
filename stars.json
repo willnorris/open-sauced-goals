@@ -1,26 +1,32 @@
 [
   {
+    "full_name": "klakegg/docker-hugo",
+    "stargazers_count": 287,
+    "open_issues_count": 2,
+    "forks_count": 60
+  },
+  {
     "full_name": "tabler/tabler-icons",
-    "stargazers_count": 13382,
-    "open_issues_count": 96,
-    "forks_count": 671
+    "stargazers_count": 13421,
+    "open_issues_count": 98,
+    "forks_count": 674
   },
   {
     "full_name": "koush/scrypted",
-    "stargazers_count": 1462,
+    "stargazers_count": 1478,
     "open_issues_count": 20,
     "forks_count": 106
   },
   {
     "full_name": "tailscale/golink",
-    "stargazers_count": 707,
+    "stargazers_count": 710,
     "open_issues_count": 7,
     "forks_count": 23
   },
   {
     "full_name": "lima-vm/lima",
-    "stargazers_count": 10199,
-    "open_issues_count": 182,
+    "stargazers_count": 10254,
+    "open_issues_count": 183,
     "forks_count": 405
   },
   {
@@ -37,7 +43,7 @@
   },
   {
     "full_name": "pirate/bash-utils",
-    "stargazers_count": 174,
+    "stargazers_count": 175,
     "open_issues_count": 0,
     "forks_count": 15
   },
@@ -49,7 +55,7 @@
   },
   {
     "full_name": "ogham/dog",
-    "stargazers_count": 4796,
+    "stargazers_count": 4800,
     "open_issues_count": 63,
     "forks_count": 120
   },
@@ -61,21 +67,21 @@
   },
   {
     "full_name": "folke/dot",
-    "stargazers_count": 221,
-    "open_issues_count": 1,
-    "forks_count": 23
+    "stargazers_count": 236,
+    "open_issues_count": 2,
+    "forks_count": 25
   },
   {
     "full_name": "tjdevries/config_manager",
-    "stargazers_count": 810,
+    "stargazers_count": 816,
     "open_issues_count": 10,
     "forks_count": 110
   },
   {
     "full_name": "mhinz/vim-startify",
-    "stargazers_count": 4950,
+    "stargazers_count": 4953,
     "open_issues_count": 73,
-    "forks_count": 178
+    "forks_count": 179
   },
   {
     "full_name": "uptech/alt",
@@ -85,33 +91,33 @@
   },
   {
     "full_name": "stripe/smokescreen",
-    "stargazers_count": 834,
+    "stargazers_count": 835,
     "open_issues_count": 9,
-    "forks_count": 48
+    "forks_count": 49
   },
   {
     "full_name": "joshdick/onedark.vim",
-    "stargazers_count": 3601,
+    "stargazers_count": 3606,
     "open_issues_count": 15,
     "forks_count": 529
   },
   {
     "full_name": "rockerBOO/awesome-neovim",
-    "stargazers_count": 8087,
+    "stargazers_count": 8136,
     "open_issues_count": 4,
-    "forks_count": 392
+    "forks_count": 393
   },
   {
     "full_name": "nanotee/nvim-lua-guide",
-    "stargazers_count": 4999,
+    "stargazers_count": 5003,
     "open_issues_count": 18,
-    "forks_count": 174
+    "forks_count": 177
   },
   {
     "full_name": "actualbudget/actual",
-    "stargazers_count": 5618,
-    "open_issues_count": 92,
-    "forks_count": 458
+    "stargazers_count": 5634,
+    "open_issues_count": 93,
+    "forks_count": 456
   },
   {
     "full_name": "josharian/tstruct",
@@ -121,7 +127,7 @@
   },
   {
     "full_name": "SierraSoftworks/tailscale-udm",
-    "stargazers_count": 219,
+    "stargazers_count": 222,
     "open_issues_count": 0,
     "forks_count": 22
   },
@@ -133,33 +139,33 @@
   },
   {
     "full_name": "maxgoedjen/secretive",
-    "stargazers_count": 4894,
+    "stargazers_count": 4904,
     "open_issues_count": 88,
-    "forks_count": 99
+    "forks_count": 100
   },
   {
     "full_name": "LunarVim/Neovim-from-scratch",
-    "stargazers_count": 4041,
+    "stargazers_count": 4060,
     "open_issues_count": 92,
-    "forks_count": 1018
+    "forks_count": 1022
   },
   {
     "full_name": "github/gh-net",
     "stargazers_count": 175,
-    "open_issues_count": 22,
+    "open_issues_count": 23,
     "forks_count": 17
   },
   {
     "full_name": "zitadel/oidc",
     "stargazers_count": 448,
     "open_issues_count": 17,
-    "forks_count": 72
+    "forks_count": 73
   },
   {
     "full_name": "github/safe-settings",
-    "stargazers_count": 248,
+    "stargazers_count": 247,
     "open_issues_count": 68,
-    "forks_count": 63
+    "forks_count": 64
   },
   {
     "full_name": "chegele/BDSAddonInstaller",
@@ -172,11 +178,5 @@
     "stargazers_count": 11,
     "open_issues_count": 6,
     "forks_count": 0
-  },
-  {
-    "full_name": "asdf-vm/asdf",
-    "stargazers_count": 16339,
-    "open_issues_count": 139,
-    "forks_count": 626
   }
 ]
