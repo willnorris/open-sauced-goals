@@ -1,33 +1,39 @@
 [
   {
+    "full_name": "sindresorhus/pure",
+    "stargazers_count": 11864,
+    "open_issues_count": 22,
+    "forks_count": 950
+  },
+  {
     "full_name": "klakegg/docker-hugo",
-    "stargazers_count": 290,
+    "stargazers_count": 291,
     "open_issues_count": 2,
     "forks_count": 60
   },
   {
     "full_name": "tabler/tabler-icons",
-    "stargazers_count": 13433,
-    "open_issues_count": 101,
-    "forks_count": 676
+    "stargazers_count": 13450,
+    "open_issues_count": 103,
+    "forks_count": 678
   },
   {
     "full_name": "koush/scrypted",
-    "stargazers_count": 1485,
-    "open_issues_count": 22,
-    "forks_count": 107
+    "stargazers_count": 1500,
+    "open_issues_count": 23,
+    "forks_count": 108
   },
   {
     "full_name": "tailscale/golink",
-    "stargazers_count": 723,
+    "stargazers_count": 732,
     "open_issues_count": 8,
     "forks_count": 24
   },
   {
     "full_name": "lima-vm/lima",
-    "stargazers_count": 10275,
-    "open_issues_count": 183,
-    "forks_count": 406
+    "stargazers_count": 10295,
+    "open_issues_count": 182,
+    "forks_count": 407
   },
   {
     "full_name": "ema/pets",
@@ -49,13 +55,13 @@
   },
   {
     "full_name": "nealmckee/penumbra",
-    "stargazers_count": 1054,
+    "stargazers_count": 1058,
     "open_issues_count": 10,
-    "forks_count": 17
+    "forks_count": 18
   },
   {
     "full_name": "ogham/dog",
-    "stargazers_count": 4803,
+    "stargazers_count": 4809,
     "open_issues_count": 63,
     "forks_count": 119
   },
@@ -67,20 +73,20 @@
   },
   {
     "full_name": "folke/dot",
-    "stargazers_count": 253,
-    "open_issues_count": 1,
-    "forks_count": 28
+    "stargazers_count": 265,
+    "open_issues_count": 0,
+    "forks_count": 33
   },
   {
     "full_name": "tjdevries/config_manager",
-    "stargazers_count": 818,
+    "stargazers_count": 821,
     "open_issues_count": 10,
     "forks_count": 111
   },
   {
     "full_name": "mhinz/vim-startify",
-    "stargazers_count": 4952,
-    "open_issues_count": 73,
+    "stargazers_count": 4953,
+    "open_issues_count": 72,
     "forks_count": 179
   },
   {
@@ -91,33 +97,33 @@
   },
   {
     "full_name": "stripe/smokescreen",
-    "stargazers_count": 835,
-    "open_issues_count": 9,
+    "stargazers_count": 837,
+    "open_issues_count": 10,
     "forks_count": 50
   },
   {
     "full_name": "joshdick/onedark.vim",
-    "stargazers_count": 3610,
-    "open_issues_count": 15,
-    "forks_count": 529
+    "stargazers_count": 3611,
+    "open_issues_count": 16,
+    "forks_count": 531
   },
   {
     "full_name": "rockerBOO/awesome-neovim",
-    "stargazers_count": 8177,
+    "stargazers_count": 8232,
     "open_issues_count": 5,
-    "forks_count": 394
+    "forks_count": 398
   },
   {
     "full_name": "nanotee/nvim-lua-guide",
-    "stargazers_count": 5011,
+    "stargazers_count": 5022,
     "open_issues_count": 18,
     "forks_count": 177
   },
   {
     "full_name": "actualbudget/actual",
-    "stargazers_count": 5648,
-    "open_issues_count": 86,
-    "forks_count": 459
+    "stargazers_count": 5673,
+    "open_issues_count": 88,
+    "forks_count": 460
   },
   {
     "full_name": "josharian/tstruct",
@@ -127,7 +133,7 @@
   },
   {
     "full_name": "SierraSoftworks/tailscale-udm",
-    "stargazers_count": 225,
+    "stargazers_count": 229,
     "open_issues_count": 0,
     "forks_count": 22
   },
@@ -139,15 +145,15 @@
   },
   {
     "full_name": "maxgoedjen/secretive",
-    "stargazers_count": 4906,
+    "stargazers_count": 4920,
     "open_issues_count": 88,
     "forks_count": 100
   },
   {
     "full_name": "LunarVim/Neovim-from-scratch",
-    "stargazers_count": 4078,
+    "stargazers_count": 4099,
     "open_issues_count": 92,
-    "forks_count": 1027
+    "forks_count": 1033
   },
   {
     "full_name": "github/gh-net",
@@ -157,13 +163,13 @@
   },
   {
     "full_name": "zitadel/oidc",
-    "stargazers_count": 450,
+    "stargazers_count": 452,
     "open_issues_count": 17,
     "forks_count": 73
   },
   {
     "full_name": "github/safe-settings",
-    "stargazers_count": 248,
+    "stargazers_count": 249,
     "open_issues_count": 69,
     "forks_count": 65
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 56,
     "open_issues_count": 1,
     "forks_count": 3
-  },
-  {
-    "full_name": "philips-labs/continuous-compliance-action",
-    "stargazers_count": 11,
-    "open_issues_count": 6,
-    "forks_count": 0
   }
 ]
